@@ -6,7 +6,7 @@ Business intelligence project(Includes project requirements documents, executive
 This portfolio showcases my business intelligence project including the following deliverables:
 
 - [Requirements Document](requirements.md)
-- [Executive Summary](executive-summary.md)
+- [Executive Summary](https://github.com/mrMartinManyaka/Business-Intelligence-Project/blob/main/Executive%20Summary%20for%20Google%20Fiber%20Service.docx)
 - [Dataset](data/dataset.csv)
 - [Interactive Dashboard](https://app.powerbi.com/dashboard-link) (Click to view)
 
