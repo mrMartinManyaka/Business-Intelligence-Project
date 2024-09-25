@@ -15,7 +15,7 @@ This portfolio showcases my business intelligence project including the followin
 - [GoogleStrategyDoc](https://github.com/mrMartinManyaka/Business-Intelligence-Project/blob/main/GoogleFiberStrategyDoc.docx)
 
   ## Dataset
-- [Dataset](data/dataset.csv)
+- [Dataset](https://github.com/mrMartinManyaka/Business-Intelligence-Project/blob/main/Final_Dashboard_Table.csv)
 
   ## Dashboard
 - [Interactive Dashboard](https://public.tableau.com/shared/47XSMT6JJ?:display_count=n&:origin=viz_share_link) (Click to view)
