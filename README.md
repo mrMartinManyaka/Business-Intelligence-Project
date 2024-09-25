@@ -1,6 +1,7 @@
 # Business-Intelligence-Portfolio
-Business intelligence project(Includes project requirements documents, executive summary, Dataset and Dashboard link(Tableau))
+
 # Business Intelligence Project
+Business intelligence project(Includes project requirements documents, executive summary, Dataset and Dashboard link(Tableau))
 
 ## Project Overview
 This portfolio showcases my business intelligence project including the following deliverables:
