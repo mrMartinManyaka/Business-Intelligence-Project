@@ -7,7 +7,7 @@ Business intelligence project(Includes project requirements documents, executive
 This portfolio showcases my business intelligence project including the following deliverables:
 
 ## Executive Summary
-- [Executive Summary](https://github.com/mrMartinManyaka/Business-Intelligence-Project/blob/main/Executive%20Summary%20for%20Google%20Fiber%20Service.docx)
+ [Executive Summary](https://github.com/mrMartinManyaka/Business-Intelligence-Project/blob/main/Executive%20Summary%20for%20Google%20Fiber%20Service.docx)
 
 ## Requirements Documents
 - [googleFiberStakeholderDoc](https://github.com/mrMartinManyaka/Business-Intelligence-Project/blob/main/googleFiberStakeholderDoc.docx)
